@@ -9,7 +9,7 @@ A simple React application built with Vite, featuring two main tasks:
 
 ## Demo
 
-[View the deployed app here](<https://react-lab2-bay.vercel.app/) 
+[View the deployed app here](https://react-lab2-bay.vercel.app/) 
 ---
 
 ## Features
